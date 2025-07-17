@@ -151,7 +151,7 @@ const About: React.FC = () => {
                   <div className="w-48 h-48 mx-auto rounded-3xl bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 p-1 shadow-2xl">
                     <div className="w-full h-full rounded-3xl overflow-hidden">
                       <img 
-                        src="/src/assets/1713446390783.jpeg" 
+                        src="src/assets/1713446390783.jpeg" 
                         alt="Sachit - DevOps Engineer" 
                         className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                       />
